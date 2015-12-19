@@ -1,0 +1,32 @@
+{
+  "name": "socketcluster-sample",
+  "description": "A sample SocketCluster app",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Jonathan Gros-Dubois",
+      "email": "grosjona@yahoo.com.au"
+    }
+  ],
+  "dependencies": {
+    "async": "^1.5.0",
+    "connect": "3.0.1",
+    "express": "4.13.1",
+    "jade": "^1.11.0",
+    "minimist": "1.1.0",
+    "mysql": "^2.10.0",
+    "node-env-file": "^0.1.8",
+    "sc-redis": "^0.1.0",
+    "serve-static": "1.8.0",
+    "socketcluster": "3.x.x",
+    "socketcluster-client": "3.x.x"
+  },
+  "keywords": [
+    "websocket",
+    "server",
+    "realtime",
+    "cluster",
+    "scalable"
+  ],
+  "readmeFilename": "README.md"
+}
